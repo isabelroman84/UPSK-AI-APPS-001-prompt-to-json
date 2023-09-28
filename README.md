@@ -27,7 +27,7 @@ Esto puede ser muy útil para automatizar procesos como el generar copys,
 escribir email, analizar datos, etc.
 
 Para poder explotar estas capacidades tenemos que hacer uso del “Prompt
-Engineering”, la ingeniería de promping es el proceso de diseñar y perfeccionar
+Engineering”, la ingeniería de prompting es el proceso de diseñar y perfeccionar
 cuidadosamente las instrucciones o "prompts" que se utilizan para interactuar
 con un modelo de lenguaje AI como GPT-3.5. Implica experimentar con diferentes
 preguntas o comandos para obtener respuestas más precisas y útiles del modelo.
